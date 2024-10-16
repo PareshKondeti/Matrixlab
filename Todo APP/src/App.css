@@ -1,0 +1,8 @@
+.bg {
+    background-image: url('./assets/Landing Page.png');
+    background-size:cover; 
+    background-position:right; 
+    background-repeat: no-repeat; 
+    height: 1100vh; 
+    width: 100vw;  
+  }
